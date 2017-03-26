@@ -1,0 +1,13 @@
+body {
+	font-family: 'Amatic SC', cursive;
+	font-weight: 700;
+	font-size: 300%;
+}
+
+.submit {
+	margin-top: 10px;
+}
+
+.animal {
+	margin-left: 10px;
+}
